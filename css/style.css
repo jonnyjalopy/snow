@@ -24,6 +24,8 @@ body {
 .header {
     /*background-color: rgba(13, 244, 244, 0.7);*/
     background-image: url(../images/winter-tree.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
     font-size: 6rem;
 }
 
