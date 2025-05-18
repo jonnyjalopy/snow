@@ -14,5 +14,8 @@ body {
 }
 
 h1 {
-
+    font-family: 'Fascinate Inline', sans-serif;
+    font-size: 6rem;
+    text-align: center;
+    line-height: 2;
 }
