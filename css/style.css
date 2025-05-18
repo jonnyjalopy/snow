@@ -1,4 +1,18 @@
+@font-face {
+    font-family: 'Fascinate Inline';
+    src: url(../fonts/fascinateinline-regular-webfont.woff2);
+}
+
+
 body {
     /*background-color:rgb(15, 233, 233);*/
     background-image: url(../images/snowflakes.jpg);
+}
+
+.header {
+    background-color: rgba(13, 244, 244, 0.7);
+}
+
+h1 {
+
 }
