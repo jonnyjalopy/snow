@@ -3,6 +3,17 @@
     src: url(../fonts/fascinateinline-regular-webfont.woff2);
 }
 
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.uppercase {
+    text-transform:uppercase;
+}
 
 body {
     /*background-color:rgb(15, 233, 233);*/
